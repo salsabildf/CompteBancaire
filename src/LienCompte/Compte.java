@@ -9,7 +9,7 @@ public class Compte {
 		      this.solde = solde;	}
 
 	public Compte() {
-	      this.solde =0; }
+	      this.solde = 0; }
 	
 	public int getSolde() {
 	      return solde;}
